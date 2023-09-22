@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: linear-gradient(to top, rgb(43, 88, 140), rgb(26, 26, 97));
+  height: 100%;
+  font-family: 'Lato', sans-serif;
+}
